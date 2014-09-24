@@ -1,0 +1,98 @@
+1. Заадминиться!
+
+http://vk.com/dev/groups.getById
+
+response: [{
+id: 74450083,
+name: 'Всем Подарки! Акция! ~ Магазин классных подарков',
+screen_name: 'podarok.boutique'
+}]
+
+
+<center><blockquote> ''' [http://shop.alenabrandis.com/|Узнать больше про ] ''' </blockquote></center>
+
+[[page-74450083_49462057|↩ Меню]]
+
+
+# Примеры
+* http://vk.com/brandis.books
+* http://vk.com/moy1dom
+
+
+Бизнес
+Детям
+Отдых
+Творчество
+
+Контакты
+Обратный звонок
+Доставка
+Оплата
+
+
+vk.com/pages?oid=-74450083&p=Меню
+http://vk.com/page-74450083_48414938
+
+vk.com/pages?oid=-74450083&p=Бизнес
+vk.com/pages?oid=-74450083&p=Детям
+vk.com/pages?oid=-74450083&p=Отдых
+vk.com/pages?oid=-74450083&p=Творчество
+
+vk.com/pages?oid=-74450083&p=Контакты
+vk.com/pages?oid=-74450083&p=Обратный звонок
+vk.com/pages?oid=-74450083&p=Доставка
+vk.com/pages?oid=-74450083&p=Оплата
+
+
+
+http://vk.com/page-74450083_48415020
+http://vk.com/page-74450083_48415025
+http://vk.com/page-74450083_48415024
+http://vk.com/page-74450083_48415022
+
+http://vk.com/page-74450083_48415021
+http://vk.com/page-74450083_48415027
+http://vk.com/page-74450083_48415023
+http://vk.com/page-74450083_48415026
+
+
+http://podarok.boutique/catalog/business/
+http://podarok.boutique/catalog/kids/
+http://podarok.boutique/catalog/relax/
+http://podarok.boutique/catalog/art/
+http://podarok.boutique/контакты/
+http://podarok.boutique/callback/
+http://podarok.boutique/доставка/
+http://podarok.boutique/оплата/
+
+
+
+[[photo-74450083_339992689|noborder;nopadding;298px|page-74450083_49462197]]
+[[photo-74450083_339992694|noborder;nopadding;298px|page-74450083_49462208]]
+[[photo-74450083_339992691|noborder;nopadding;298px|page-74450083_49462200]]
+[[photo-74450083_339992695|noborder;nopadding;298px|page-74450083_49462210]]
+[[photo-74450083_339992693|noborder;nopadding;298px|page-74450083_49462203]]
+[[photo-74450083_339992697|noborder;nopadding;298px|page-74450083_49462217]]
+
+
+photo-74450083_339992689
+photo-74450083_339992694
+photo-74450083_339992691
+photo-74450083_339992695
+photo-74450083_339992693
+photo-74450083_339992697
+
+
+page-74450083_49462057
+
+page-74450083_49462197
+page-74450083_49462200
+page-74450083_49462203
+page-74450083_49462208
+page-74450083_49462210
+page-74450083_49462217
+
+
+
+
+[[photo-74450083_339992689|noborder;nopadding;298px|page-74450083_49462197]][[photo-74450083_339992694|noborder;nopadding;298px|page-74450083_49462208]][[photo-74450083_339992691|noborder;nopadding;298px|page-74450083_49462200]][[photo-74450083_339992695|noborder;nopadding;298px|page-74450083_49462210]][[photo-74450083_339992693|noborder;nopadding;298px|page-74450083_49462203]][[photo-74450083_339992697|noborder;nopadding;298px|page-74450083_49462217]]

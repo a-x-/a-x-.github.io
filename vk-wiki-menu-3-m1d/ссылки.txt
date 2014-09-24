@@ -1,0 +1,90 @@
+http://vk.com/dev/groups.getById
+
+response: [{
+    id: 76263406,
+    name: 'Мой Первый Дом ~ Строим и продаем дома',
+    screen_name: 'moy1dom',
+}]
+
+
+
+<center><blockquote> ''' [http://shop.alenabrandis.com/|Узнать больше про ] ''' </blockquote></center>
+
+[[page-76263406_49462057|↩ Меню]]
+
+
+Пример
+http://vk.com/brandis.books
+
+
+Ворота и Рольставни
+Дома, Беседки и Бани
+Окна и Витрины
+
+Наш сайт
+Контакты
+Оставить заявку
+
+
+vk.com/pages?oid=-76263406&p=Меню
+http://vk.com/page-76263406_49462057
+
+vk.com/pages?oid=-76263406&p=Ворота и Рольставни
+http://vk.com/page-76263406_49462197
+
+vk.com/pages?oid=-76263406&p=Дома, Беседки, Бани
+http://vk.com/page-76263406_49462200
+
+vk.com/pages?oid=-76263406&p=Окна и Витрины
+http://vk.com/page-76263406_49462203
+
+vk.com/pages?oid=-76263406&p=Наш сайт
+vk.com/page-76263406_49462208
+
+vk.com/pages?oid=-76263406&p=Контакты
+http://vk.com/page-76263406_49462210
+
+vk.com/pages?oid=-76263406&p=Оставить заявку
+vk.com/page-76263406_49462217
+
+
+
+http://moy1dom.com/gate/
+http://moy1dom.com/building-selling/
+http://moy1dom.com/windows/
+
+http://moy1dom.com/
+Строительная организация «Мой Первый Дом» / +7 (495) 926 05 52 / г. Москва
+http://moy1dom.com/order/
+
+
+
+[[photo-76263406_339992689|noborder;nopadding;298px|page-76263406_49462197]]
+[[photo-76263406_339992694|noborder;nopadding;298px|page-76263406_49462208]]
+[[photo-76263406_339992691|noborder;nopadding;298px|page-76263406_49462200]]
+[[photo-76263406_339992695|noborder;nopadding;298px|page-76263406_49462210]]
+[[photo-76263406_339992693|noborder;nopadding;298px|page-76263406_49462203]]
+[[photo-76263406_339992697|noborder;nopadding;298px|page-76263406_49462217]]
+
+
+photo-76263406_339992689
+photo-76263406_339992694
+photo-76263406_339992691
+photo-76263406_339992695
+photo-76263406_339992693
+photo-76263406_339992697
+
+
+page-76263406_49462057
+
+page-76263406_49462197
+page-76263406_49462200
+page-76263406_49462203
+page-76263406_49462208
+page-76263406_49462210
+page-76263406_49462217
+
+
+
+
+[[photo-76263406_339992689|noborder;nopadding;298px|page-76263406_49462197]][[photo-76263406_339992694|noborder;nopadding;298px|page-76263406_49462208]][[photo-76263406_339992691|noborder;nopadding;298px|page-76263406_49462200]][[photo-76263406_339992695|noborder;nopadding;298px|page-76263406_49462210]][[photo-76263406_339992693|noborder;nopadding;298px|page-76263406_49462203]][[photo-76263406_339992697|noborder;nopadding;298px|page-76263406_49462217]]

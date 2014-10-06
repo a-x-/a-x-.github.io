@@ -9,9 +9,9 @@ screen_name: 'podarok.boutique'
 }]
 
 
-<center><blockquote> ''' [http://shop.alenabrandis.com/|Узнать больше про ] ''' </blockquote></center>
+<center><blockquote> ''' [[http://shop.alenabrandis.com/|ПЕРЕЙТИ В МАГАЗИН]] ''' </blockquote></center>
 
-[[page-74450083_49462057|↩ Меню]]
+[[page-74450083_48414938|↩ Меню]]
 
 
 # Примеры
@@ -54,6 +54,7 @@ http://vk.com/page-74450083_48415027
 http://vk.com/page-74450083_48415023
 http://vk.com/page-74450083_48415026
 
+
 page-74450083_48415020
 page-74450083_48415025
 page-74450083_48415024
@@ -73,6 +74,38 @@ http://podarok.boutique/callback/
 http://podarok.boutique/доставка/
 http://podarok.boutique/оплата/
 
+
+<center><blockquote> ''' [[http://podarok.boutique/catalog/business/|ПЕРЕЙТИ В МАГАЗИН]] ''' </blockquote></center>
+
+[[page-74450083_48414938|↩ Меню]]
+
+<center><blockquote> ''' [[http://podarok.boutique/catalog/kids/|ПЕРЕЙТИ В МАГАЗИН]] ''' </blockquote></center>
+
+[[page-74450083_48414938|↩ Меню]]
+
+<center><blockquote> ''' [[http://podarok.boutique/catalog/relax/|ПЕРЕЙТИ В МАГАЗИН]] ''' </blockquote></center>
+
+[[page-74450083_48414938|↩ Меню]]
+
+<center><blockquote> ''' [[http://podarok.boutique/catalog/art/|ПЕРЕЙТИ В МАГАЗИН]] ''' </blockquote></center>
+
+[[page-74450083_48414938|↩ Меню]]
+
+<center><blockquote> ''' [[http://podarok.boutique/контакты/|ПЕРЕЙТИ НА САЙТ]] ''' </blockquote></center>
+
+[[page-74450083_48414938|↩ Меню]]
+
+<center><blockquote> ''' [[http://podarok.boutique/callback/|ПЕРЕЙТИ НА САЙТ]] ''' </blockquote></center>
+
+[[page-74450083_48414938|↩ Меню]]
+
+<center><blockquote> ''' [[http://podarok.boutique/доставка/|ПЕРЕЙТИ НА САЙТ]] ''' </blockquote></center>
+
+[[page-74450083_48414938|↩ Меню]]
+
+<center><blockquote> ''' [[http://podarok.boutique/оплата/|ПЕРЕЙТИ НА САЙТ]] ''' </blockquote></center>
+
+[[page-74450083_48414938|↩ Меню]]
 
 
 

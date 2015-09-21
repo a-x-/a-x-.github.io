@@ -1,4 +1,4 @@
-## Yet enough boring wishlist
+## Yet another boring wishlist
 
 * Yandex stock shares
 * earphones with active noise reduce

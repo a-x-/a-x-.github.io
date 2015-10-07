@@ -1,3 +1,5 @@
+<img style="float:right; width:300px" src="https://cloud.githubusercontent.com/assets/6201068/10353707/c155568c-6d61-11e5-9168-260cc3fdfd63.jpg">
+
 # Покатался сегодня по каршернгу.
 _Или: осторожно: "компьютерщик" за рулём_.
 

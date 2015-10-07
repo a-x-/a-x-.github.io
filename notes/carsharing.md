@@ -1,6 +1,6 @@
 # Покатался сегодня по каршернгу
 <p width="300" align="right">
-<img width="300"src="https://cloud.githubusercontent.com/assets/6201068/10353707/c155568c-6d61-11e5-9168-260cc3fdfd63.jpg">
+<img width="300" src="https://cloud.githubusercontent.com/assets/6201068/10353707/c155568c-6d61-11e5-9168-260cc3fdfd63.jpg">
 <br>Покидаю hyundai solaris
 </p>
 

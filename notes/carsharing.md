@@ -1,7 +1,7 @@
 # Покатался сегодня по каршернгу
 
+<p width="300" align="right">Покидаю hyundai solaris<br></p>
 <img width="300" align="right" src="https://cloud.githubusercontent.com/assets/6201068/10353707/c155568c-6d61-11e5-9168-260cc3fdfd63.jpg">
-<p width="300" align="right">Покидаю hyundai solaris</p>
 
 _Или: осторожно: "компьютерщик" за рулём_.
 

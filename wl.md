@@ -1,12 +1,12 @@
 ## Yet another boring wishlist
 
-* **UPD** raspberry pi kit
-* Yandex stock shares
-* earphones with active noise reduce
-* **UPD** the best simple external full-size headphones
+* **UPD** Raspberry pi kit
 * e-ink reader
+* Yandex stock shares
+* headphones with active noise reduce (!)
+* **UPD** or simle external full-size headphones
 * quadrocopter maybe as building platform
-* fucking ipod shuffle jack-usb wire
-* love, happiness, friendship, human enteractions
 * github stickers
-
+* fucking ipod shuffle jack-usb wire
+* **UPD** Macbook case
+* love, happiness, friendship, human enteractions

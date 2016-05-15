@@ -11,10 +11,22 @@
     </div>
   </div>
 </div>
+<input type='range' class='image-diff__control' min='0' max='1' step='0.001' value='0.5'>
+
 <script type="application/javascript" src='https://cdn.rawgit.com/a-x-/image-diff-view/839a8fc/index.js'></script>
 <script>
 var beforeUrl = 'http://cezary.github.io/react-image-diff/public/img/spot-the-difference-a.jpg',
     afterUrl = 'http://cezary.github.io/react-image-diff/public/img/spot-the-difference-b.jpg';
 var imageDiff = new ImageDiff(document.getElementById('image-diff'), beforeUrl, afterUrl, 'swipe');
-imageDiff.swipe(0.5);
+
+var control = $('.image-diff__control');
+imageDiff.domElems.before.addEventListener('load', function(){
+    control.style.width = imageDiff.domElems.before.width;
+    imageDiff[imageDiff.props.type](+control.value);
+});
+control.style.width = imageDiff.domElems.before.width;
+control.addEventListener('change', function(){
+    imageDiff[imageDiff.props.type](+control.value);
+});
+
 </script>

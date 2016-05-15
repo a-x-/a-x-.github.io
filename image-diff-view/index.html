@@ -25,7 +25,7 @@ imageDiff.domElems.before.addEventListener('load', function(){
     imageDiff[imageDiff.props.mode](+control.value);
 });
 control.style.width = imageDiff.domElems.before.width;
-control.addEventListener('change', function(){
+control.addEventListener('input', function(){
     imageDiff[imageDiff.props.mode](+control.value);
 });
 

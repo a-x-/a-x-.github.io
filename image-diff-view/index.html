@@ -22,11 +22,11 @@ var imageDiff = new ImageDiff(document.getElementById('image-diff'), beforeUrl, 
 var control = $('.image-diff__control');
 imageDiff.domElems.before.addEventListener('load', function(){
     control.style.width = imageDiff.domElems.before.width;
-    imageDiff[imageDiff.props.type](+control.value);
+    imageDiff[imageDiff.props.mode](+control.value);
 });
 control.style.width = imageDiff.domElems.before.width;
 control.addEventListener('change', function(){
-    imageDiff[imageDiff.props.type](+control.value);
+    imageDiff[imageDiff.props.mode](+control.value);
 });
 
 </script>

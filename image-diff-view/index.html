@@ -32,11 +32,11 @@ var imageDiff = new ImageDiff(document.getElementById('image-diff'), beforeUrl, 
 var control = $('.image-diff__control');
 imageDiff.domElems.before.addEventListener('load', function(){
     control.style.width = imageDiff.domElems.before.width;
-    imageDiff[imageDiff.props.mode](+control.value);
+    tune();
 });
 control.style.width = imageDiff.domElems.before.width;
 control.addEventListener('input', function(){
-    imageDiff[imageDiff.props.mode](+control.value);
+    tune();
 });
 
 var modeRadio = $('.image-diff__mode-radio-group'),
@@ -46,7 +46,13 @@ modeRadio.addEventListener('click', function() {
   if (mode !== modeRadioVal) {
     imageDiff.update(beforeUrl, afterUrl, mode);
     mode = modeRadioVal;
-    imageDiff[imageDiff.props.mode](+control.value);
+    tune();
   }
 });
+
+function tune() {
+  if (imageDiff.props.mode !== 'difference') {
+    imageDiff[imageDiff.props.mode](+control.value);
+  }
+}
 </script>

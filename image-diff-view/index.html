@@ -1,6 +1,30 @@
 <link rel='stylesheet' href='https://cdn.rawgit.com/a-x-/image-diff-view/72678b7/index.css' type='text/css' charset='utf-8'>
 <style>
 .image-diff__control { display: block; }
+.image-diff:after {
+    content: 'After';
+    right: 0;
+}
+.image-diff:before {
+    content: 'Before';
+    left: 0;
+}
+.image-diff:after,
+.image-diff:before {
+    display: inline-block;
+    position: absolute;
+    z-index: 9;
+    font-size: small;
+    text-shadow: 0 0 3px black;
+    font-weight: bold;
+    color: white;
+    opacity: .8;
+    top: 0;
+}
+
+.image-diff {
+    position: relative;
+}
 </style>
 
 <div class='image-diff' id='image-diff'>
@@ -41,6 +65,7 @@ control.addEventListener('input', function(){
 
 var modeRadio = $('.image-diff__mode-radio-group'),
     modeRadioVal;
+
 modeRadio.addEventListener('click', function() {
   var mode = document.querySelector('input[name="mode"]:checked').value;
   if (mode !== modeRadioVal) {
@@ -52,7 +77,10 @@ modeRadio.addEventListener('click', function() {
 
 function tune() {
   if (imageDiff.props.mode !== 'difference') {
-    imageDiff[imageDiff.props.mode](+control.value);
+    imageDiff.tune(+control.value);
+    control.disabled = false;
+  } else {
+    control.disabled = true;
   }
 }
 </script>
